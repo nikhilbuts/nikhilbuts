@@ -14,6 +14,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [What I learned in Sequelize ORM ?](https://medium.com/7span/what-i-learned-in-sequelize-orm-2808b34a02fa?source=rss-927a04507853------2)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌐 Socials: 
