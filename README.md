@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Nodejs developer from India</h3>
 
 
-- 🔭 I’m currently working as Nodejs developer at **7Span**
+- 🔭 I’m currently working as Nodejs developer.
 
 - 🌱 I’m currently learning **new things & Technologies**
 
